@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://app.lianxiaotong.modernland.hk/MOM%CE%9BYXB/QMXX.ipa</string>
+					<string>http://app.lianxiaotong.modernland.hk/MOMAYXB/QMXX.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -25,7 +25,7 @@
 				<key>title</key>
 				<string>MOMΛ云销宝</string>
 			</dict>
-		</dict>
+		</ dict>
 	</array>
 </dict>
 </plist>
