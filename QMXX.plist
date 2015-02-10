@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://app.lianxiaotong.modernland.hk/MOMAYXB/QMXX.ipa</string>
+					<string>http://card.allappropriate.com/SuperInvitation.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.firstcare.qmxx</string>
+				<string>com.super.invited</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>MOMA云销宝</string>
+				<string>超级邀请函</string>
 			</dict>
 		</ dict>
 	</array>
